@@ -1,4 +1,4 @@
-## 📖 Sobre el Proyecto
+##  Sobre el Proyecto
 
 Sistema de inventario completo desarrollado en Python que permite gestionar productos, registrar movimientos de stock, generar reportes visuales y mantener backups automáticos. Diseñado con una interfaz moderna usando CustomTkinter para ofrecer la mejor experiencia de usuario.
 
@@ -11,9 +11,9 @@ Sistema de inventario completo desarrollado en Python que permite gestionar prod
 
 ---
 
-## ✨ Características Principales
+##  Características Principales
 
-### 🎯 Gestión Completa de Productos
+###  Gestión Completa de Productos
 
 <table>
 <tr>
@@ -48,7 +48,7 @@ Sistema de inventario completo desarrollado en Python que permite gestionar prod
 - **Cálculos Automáticos**: Valor total del inventario actualizado
 - **Trazabilidad**: Seguimiento por usuario y fecha
 
-### 📊 Análisis Visual
+###  Análisis Visual
 
 | Gráfico | Descripción |
 |---------|-------------|
@@ -57,7 +57,7 @@ Sistema de inventario completo desarrollado en Python que permite gestionar prod
 | **Por Categoría** | Distribución del stock en categorías |
 | **Stock Bajo** | Comparativa visual de productos críticos |
 
-### 📋 Historial Completo
+###  Historial Completo
 
 - Registro cronológico de todos los movimientos
 - Búsqueda avanzada en el historial
@@ -161,7 +161,7 @@ pip install matplotlib>=3.5.0
 
 ---
 
-## 📸 Capturas de Pantalla
+##  Capturas de Pantalla
 
 ### Gestión de Inventario
 ![Gestión](Screenshots/gestion.PNG)
@@ -182,18 +182,18 @@ pip install matplotlib>=3.5.0
 ```
 inventario-sistema/
 │
-├── 📄 Inventario.py        # Aplicación principal
-├── 📋 requirements.txt          # Dependencias del proyecto
-├── 📖 README.md                 # Documentación (este archivo)
-├── 📜 LICENSE                   # Licencia MIT
-├── 🚫 .gitignore               # Archivos ignorados por Git
+├──  Inventario.py        # Aplicación principal
+├──  requirements.txt          # Dependencias del proyecto
+├──  README.md                 # Documentación (este archivo)
+├──  LICENSE                   # Licencia MIT
+├──  .gitignore               # Archivos ignorados por Git
 │
-├── 📸 screenshots/             # Capturas de pantalla
+├──  screenshots/             # Capturas de pantalla
 │   ├── gestion.png
 │   ├── analisis.png
 │   └── movimientos.png
 │
-└── 💾 data/                    # Datos (generado automáticamente)
+└──  data/                    # Datos (generado automáticamente)
     ├── Inventario2.0.xlsx      # Base de datos principal
     └── Inventario2.0_bak_*.xlsx # Backups automáticos
 ```
@@ -284,7 +284,7 @@ pip install --upgrade matplotlib
 
 ---
 
-## 🤝 Contribuciones
+##  Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si quieres mejorar este proyecto:
 
@@ -342,9 +342,9 @@ Esto significa que puedes:
 
 **Rosa Fuentes**
 
-- 💼 GitHub: [@rosafg](https://github.com/RosaFg)
-- 💼 LinkedIn: [Rosa Fuentes](https://linkedin.com/in/rosafg)
-- 📧 Email: rosafuegos@gmail.com
+-  GitHub: [@rosafg](https://github.com/RosaFg)
+-  LinkedIn: [Rosa Fuentes](https://linkedin.com/in/rosafg)
+-  Email: rosafuegos@gmail.com
 
 ---
 
