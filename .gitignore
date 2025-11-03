@@ -1,0 +1,52 @@
+# Archivos de Python
+__pycache__
+.py[cod]
+$py.class
+.so
+.Python
+build
+develop-eggs
+dist
+downloads
+eggs
+.eggs
+lib
+lib64
+parts
+sdist
+var
+wheels
+.egg-info
+.installed.cfg
+.egg
+inventario.spec
+
+# Entornos virtuales
+venv
+ENV
+env
+.venv
+
+# IDEs
+.vscode
+.idea
+.swp
+.swo
+~
+
+# Archivos de datos del inventario
+Data
+.xlsx
+.csv
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+.log
+
+# Archivos temporales
+.tmp
+.temp
